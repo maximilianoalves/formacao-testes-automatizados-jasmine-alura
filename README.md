@@ -1,3 +1,9 @@
-# formacao-testes-automatizados-jasmine-alura
+# Curso Jasmine: Testes automatizados em JavaScript
+
 Scripts e funções executadas no curso de testes automatizados com jasmine - Alura.
-Maximiliano Alves
+- [x] Testes de Caixa Preta
+- [x] TDD
+- [x] Testando o que importa 
+- [x] Testes em HTML e interfaces
+
+
